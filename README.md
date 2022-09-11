@@ -1,6 +1,5 @@
 # Überblick über C#
 
----
 
 **C# ist...**
 
@@ -20,5 +19,3 @@
 
 
 # .NET-Architektur
-
----
